@@ -3,7 +3,7 @@
 
 ### About me
 
-Hi my name is Jamie, I'm a full stack engineer with over 10 years of experience designing and building web applications and systems across a variety of industries and platforms 👷‍♂️
+Hi my name is Jamie, I'm a full stack engineer with over 10 years of experience building web applications and systems across a wide range of industries and platforms 👷‍♂️
 
 #### Core Skills & Proficiencies
 
