@@ -1,6 +1,3 @@
-> [!NOTE]
-> **I'm looking for work and available to start immediately, reach out on [LinkedIn](https://www.linkedin.com/in/jamieweavis/) if you're interested in hiring me! 🤝**
-
 ### Hello 👋
 
 My name is Jamie, I'm a full stack engineer with 10+ years of experience building web applications and systems across a wide range of industries and platforms 👷‍♂️
