@@ -12,4 +12,4 @@ My name is Jamie, I'm a full stack engineer with 10+ years of experience buildin
 | Testing | ![Jest](https://img.shields.io/badge/Jest--C63D15) ![Testing Library](https://img.shields.io/badge/Testing%20Library--F26D5E) ![Cypress](https://img.shields.io/badge/Cypress--94E2C1) ![Puppeteer](https://img.shields.io/badge/Puppeteer--05D9A3) ![Playwright](https://img.shields.io/badge/Playwright--46BB4B) |
 | DevOps | ![AWS](https://img.shields.io/badge/AWS--141F2E) ![Docker](https://img.shields.io/badge/Docker--1D63ED) ![Linux](https://img.shields.io/badge/Linux--FCC624) ![Grafana](https://img.shields.io/badge/Grafana--FF681C) ![Bash](https://img.shields.io/badge/Bash--4EAA25) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions--181717) |
 
-> In my spare time I'm currently tinkering with ![Rust](https://img.shields.io/badge/Rust--D34516) and ![Go](https://img.shields.io/badge/Go--00ADD8)
+> In my spare time I'm playing with ![Rust](https://img.shields.io/badge/Rust--FA4B00) and ![Go](https://img.shields.io/badge/Go--1BAFD9) 👨‍🔧
